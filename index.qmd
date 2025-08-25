@@ -1,7 +1,20 @@
 ---
-title: "2025_website_refresh"
+title: "Naseem H. Dillman-Hasso"
+image: media/naseem.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Bluesky
+      href: https://bsky.app/profile/naseemdh.com
+    - text: GitHub
+      href: https://github.com/ndillmanhasso
+    - text: Email
+      href: mailto:dillman-hasso.1@buckeyemail.osu.edu
+    - text: ORCID
+      href: http://orcid.org/0000-0002-8284-4383
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+        
+Hi there! I'm Naseem Dillman-Hasso, an Environmental Social Sciences PhD Candidate at (the) Ohio State University. I'm currently advised by [Dr. Robyn Wilson](https://senr.osu.edu/our-people/robyn-s-wilson) and [Dr. Nicole Sintov](https://senr.osu.edu/our-people/nicole-sintov). I'm particularly interested in understanding motivations for pro-environmental behavior, and promoting persistent behavior change through interventions.

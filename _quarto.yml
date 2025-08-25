@@ -1,19 +1,25 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "2025_website_refresh"
+  title: "Naseem H. Dillman-Hasso"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Publications
+      - href: grants.qmd
+        text: Grants and Awards
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/cv.pdf
+        text: CV
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    page-layout: full
