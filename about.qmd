@@ -3,17 +3,19 @@ title: "Publications"
 ---
 Citation counts can be found on [Google Scholar](https://scholar.google.com/citations?user=xxDtDtwAAAAJ&hl=en).
 
-## In progress
-- **Dillman-Hasso, N. H.** A Meta-Analysis on the Persistent Effects of Incentives on Pro-Environmental Behavior Change Interventions. (Revise and Resubmit submitted at Journal of Environmental Psychology)
-- **Dillman-Hasso, N. H.**, Le, P. Q., Fujita, K., Wilson, R. Using narratives to promote goal reflection and pro-environmental behavioral intentions. In prep.
-- Sintov, N. D., Hurst, K., **Dillman-Hasso, N. H.** How families shape residential solar adoption. In prep for Nature Energy.
-- **Dillman-Hasso, N. D.**, Fujita, K. Understanding psychological distance and environmental behaviors from a regulatory scope perspective. In prep.
-
 ## Motivations for Behavior Change
 - Shaffer‐Morrison, C. D., **Dillman‐Hasso, N. H.**, & Wilson, R. S. (2025). Sowing seeds for the future: Future time perspective and climate adaptation among farmers. British Journal of Social Psychology, 64(2), e12850. doi.org/10.1111/bjso.12850. [Link](https://doi.org/10.1111/bjso.12850).
 
+### In progress
+- **Dillman-Hasso, N. H.** A Meta-Analysis on the Persistent Effects of Incentives on Pro-Environmental Behavior Change Interventions. (Revise and Resubmit submitted at Journal of Environmental Psychology)
+- **Dillman-Hasso, N. H.**, Le, P. Q., Fujita, K., Wilson, R. Using narratives to promote goal reflection and pro-environmental behavioral intentions. In prep.
+- **Dillman-Hasso, N. D.**, Fujita, K. Understanding psychological distance and environmental behaviors from a regulatory scope perspective. In prep.
+
 ## Large Sustainable Behaviors
 - **Dillman-Hasso, N. H.**, Sintov, N. D. (2025). Can we achieve equity in residential solar adoption? Public perceptions of rooftop and community solar in the United States. Energy Research & Social Science, 122, 104022. doi.org/10.1016/j.erss.2025.104022. [Link](https://doi.org/10.1016/j.erss.2025.104022).
+
+### In progress
+- Sintov, N. D., Hurst, K., **Dillman-Hasso, N. H.** How families shape residential solar adoption. In prep for Nature Energy.
 
 ## Listening Effort
 - Wennberg, J., **Dillman-Hasso, N. H.**, Strand, J. F., Brown, V. A. (Registered Report Round 2 Revision Submitted). Impaired Performance in Noise: Disentangling Listening Effort from the Irrelevant Speech Effect. Collabra: Psychology. Registered Report.
