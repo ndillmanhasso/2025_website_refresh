@@ -19,9 +19,9 @@ title: "Teaching and Mentoring"
   - Spring 2023. N = 125. No student evaluation data collected.
 
 
-## Elsewhere
-- Winter 2020 TA for PSYC200 + Lab: Measurement and Data Analysis. Carleton College. N = 45
-- Winter, Spring, and Fall 2019. Prefect (similar to TA) for PSYC110: Intro to Psychology. Carleton College. Ns ranged from 35-70.
+## At Carleton College
+- Winter 2020 TA for PSYC200 + Lab: Measurement and Data Analysis. N = 45
+- Winter, Spring, and Fall 2019. Prefect (similar to TA) for PSYC110: Intro to Psychology. Ns ranged from 35-70.
 
 # Informal instruction
 - Led multiple R coding/analysis tutorials
