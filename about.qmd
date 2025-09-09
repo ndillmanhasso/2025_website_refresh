@@ -4,6 +4,7 @@ title: "Publications"
 Citation counts can be found on [Google Scholar](https://scholar.google.com/citations?user=xxDtDtwAAAAJ&hl=en).
 
 ## Motivations for Behavior Change
+### Published work
 - Shaffer‐Morrison, C. D., **Dillman‐Hasso, N. H.**, & Wilson, R. S. (2025). Sowing seeds for the future: Future time perspective and climate adaptation among farmers. British Journal of Social Psychology, 64(2), e12850. doi.org/10.1111/bjso.12850. [Link](https://doi.org/10.1111/bjso.12850).
 
 ### In progress (draft available upon request)
@@ -13,9 +14,10 @@ Citation counts can be found on [Google Scholar](https://scholar.google.com/cita
 ### Ongoing work
 - **Dillman-Hasso, N. H.**, Fujita, K. Understanding psychological distance and environmental behaviors from a regulatory scope perspective. In prep.
 - **Dillman-Hasso, N. H.**, Fujita, K., Sintov, N., Wilson, R. Linking Expansive Regulatory Scope to Pro-Environmental Behaviors Understanding psychological distance and environmental behaviors from a regulatory scope perspective. In prep.
-- **Dillman-Hasso, N. H.**, Sintov, N., Wilson, R., Fujita, K. UManipulating Regulatory Scope to achieve persistent pro-environmental behavior change. In prep.
+- **Dillman-Hasso, N. H.**, Sintov, N., Wilson, R., Fujita, K. Manipulating Regulatory Scope to achieve persistent pro-environmental behavior change. In prep.
 
 ## Large Sustainable Behaviors
+### Published work
 - **Dillman-Hasso, N. H.**, Sintov, N. D. (2025). Can we achieve equity in residential solar adoption? Public perceptions of rooftop and community solar in the United States. Energy Research & Social Science, 122, 104022. doi.org/10.1016/j.erss.2025.104022. [Link](https://doi.org/10.1016/j.erss.2025.104022).
 
 ### In progress (draft available upon request)
