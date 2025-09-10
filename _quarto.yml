@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Naseem H. Dillman-Hasso"
+  favicon: media/N.jpg
   navbar:
     left:
       - href: index.qmd
